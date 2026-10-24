@@ -1,1 +1,1 @@
-CV Assignments and Project related files
+CV Assignments files
